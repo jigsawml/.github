@@ -10,6 +10,12 @@ https://github.com/user-attachments/assets/afadb5ad-7665-476a-b5a5-46e33e01c97a
 
 </div>
 
+[![Get Started](https://img.shields.io/badge/Get_Started-blue?style=for-the-badge)](https://jigsawml.com/start)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-supported-languages)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#-supported-languages)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#-supported-languages)
+[![Privacy First](https://img.shields.io/badge/Privacy_First-Runs_Locally-green?style=for-the-badge)](#privacy-first)
+
 ## 🏗️ Featured Architecture Examples
 
 Real codebases, automatically mapped:
