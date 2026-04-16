@@ -1,12 +1,14 @@
-# JigsawML
+<div align="center">
+
+<img width="1929" height="689" alt="Logo-Svg" src="https://github.com/user-attachments/assets/af46cbbd-0709-4c97-a629-1e0754488599" />
 
 **Architectural Intelligence for AI-generated software.**
 
 Auto-generated, always-live architecture diagrams from your code and cloud infrastructure. Understand any system in seconds.
 
+https://github.com/user-attachments/assets/afadb5ad-7665-476a-b5a5-46e33e01c97a
 
-https://github.com/user-attachments/assets/394c44be-0c3b-420f-915f-bfb2c9854fe7
-
+</div>
 
 ## 🏗️ Featured Architecture Examples
 
