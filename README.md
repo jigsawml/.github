@@ -28,11 +28,12 @@ Real codebases, automatically mapped:
 - **[Zod](https://jigsawml.com/canvas/zod)** - TypeScript schema validation
 - **[Hono](https://jigsawml.com/canvas/hono)** - Lightweight web framework
 
-## 🚀 Supported Languages
+## 🎯 Who Is This For?
 
-- **Python** - Full AST analysis, import tracking, class hierarchies
-- **TypeScript/JavaScript** - ES modules, React components, Node.js backends  
-- **Go** - Package dependencies, struct relationships, interface mappings
+| | | |
+|---|---|---|
+| **🤖 AI-Assisted Developers** | **👥 Engineering Leads** | **🆕 New Team Members** |
+| You're shipping faster than ever with Copilot, Cursor, or Claude. But AI-generated code still needs to fit into your existing system and do exactly what you want it to do. JigsawML shows you exactly where new code lands and what it touches. | You're responsible for a system that's growing faster than your team's ability to reason about it. JigsawML gives you a live, shared map of the architecture - no more stale diagrams or tribal knowledge. | You just joined and the codebase is 800K lines. JigsawML lets you see the full system structure in minutes instead of spending your first two weeks asking "what calls what?" |
 
 ## 💡 Why Architecture Matters for AI Code
 
@@ -57,6 +58,12 @@ You can run JigsawML locally on your machine where your source code would never 
 - **[Demo Video](https://jigsawml.com/demo)** - A 5-min video of what's coming.
 - **[Interactive Examples](https://jigsawml.com/open-source-projects)** - Interactive trimmed down examples using well known open source repositories.
 - **[Reddit](https://reddit.com/r/jigsawml) | [X](https://x.com/JigsawML) | [LinkedIn](https://www.linkedin.com/company/jigsawml/)** - Join the community for Architecture discussions.
+
+## 🚀 Supported Languages
+
+- **Python** - Full AST analysis, import tracking, class hierarchies
+- **TypeScript/JavaScript** - ES modules, React components, Node.js backends  
+- **Go** - Package dependencies, struct relationships, interface mappings
 
 ---
 
