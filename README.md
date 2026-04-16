@@ -17,6 +17,7 @@ https://github.com/user-attachments/assets/afadb5ad-7665-476a-b5a5-46e33e01c97a
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/r/jigsawml)
 [![Follow on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JigsawML)
 [![Demo Video](https://img.shields.io/badge/Watch_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://jigsawml.com/demo)
+[![Feedback](https://img.shields.io/badge/Give_Feedback-💬-orange?style=for-the-badge)](https://feedback.jigsawml.com/)
 
 ## 🏗️ Featured Architecture Examples
 
@@ -82,6 +83,7 @@ JigsawML builds architecture diagrams through static analysis - no runtime agent
 - **[Demo Video](https://jigsawml.com/demo)** - A 5-min video of what's coming.
 - **[Interactive Examples](https://jigsawml.com/open-source-projects)** - Interactive trimmed down examples using well known open source repositories.
 - **[Reddit](https://reddit.com/r/jigsawml) | [X](https://x.com/JigsawML) | [LinkedIn](https://www.linkedin.com/company/jigsawml/)** - Join the community for Architecture discussions.
+- **[Feedback Board](https://feedback.jigsawml.com/)** - Request features, report bugs, vote on what we build next
 
 ## 🚀 Supported Languages
 
