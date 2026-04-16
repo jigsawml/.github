@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1929" height="689" alt="Logo-Svg" src="https://github.com/user-attachments/assets/af46cbbd-0709-4c97-a629-1e0754488599" />
+<img width="800" height="300" alt="Logo-Svg" src="https://github.com/user-attachments/assets/af46cbbd-0709-4c97-a629-1e0754488599" />
 
 **Architectural Intelligence for AI-generated software.**
 
