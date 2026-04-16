@@ -11,10 +11,12 @@ https://github.com/user-attachments/assets/afadb5ad-7665-476a-b5a5-46e33e01c97a
 </div>
 
 [![Get Started](https://img.shields.io/badge/Get_Started-blue?style=for-the-badge)](https://jigsawml.com/start)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-supported-languages)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#-supported-languages)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#-supported-languages)
 [![Privacy First](https://img.shields.io/badge/Privacy_First-Runs_Locally-green?style=for-the-badge)](#privacy-first)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://jigsawml.com/start)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://jigsawml.com/start)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/r/jigsawml)
+[![Follow on X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JigsawML)
+[![Demo Video](https://img.shields.io/badge/Watch_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://jigsawml.com/demo)
 
 ## 🏗️ Featured Architecture Examples
 
@@ -49,8 +51,27 @@ JigsawML creates live architecture diagrams that:
 - **Map cloud resources** - Connect your code symbols to AWS/GCP/Azure
 - **Scale with complexity** - From single functions to microservice meshes
 
-## Privacy First
-You can run JigsawML locally on your machine where your source code would never leave your environment.
+## 🔧 How It Works
+
+JigsawML builds architecture diagrams through static analysis - no runtime agents, no code execution, no data leaving your machine.
+
+### The Pipeline
+
+**1. Parse** - Full AST analysis of your source code. Functions, classes, modules, imports, and call paths are extracted per language (Python, TypeScript/JavaScript, Go).
+
+**2. Resolve** - Dependencies are traced across files and packages. JigsawML builds a complete graph of what calls what, what inherits from what, and what imports what.
+
+**3. Correlate** - Cloud infrastructure resources (S3 buckets, Lambda functions, API Gateways, etc.) are mapped back to the code symbols that reference them. Your architecture diagram shows both the code *and* the infra it touches.
+
+**4. Render** - The graph is displayed as a live, interactive diagram. Zoom into a single function or zoom out to see the full system. Every node is clickable, searchable, and stays current as your code changes.
+
+### Three Ways to Run
+
+| Mode | Best For |
+|---|---|
+| **Local Installer** | Teams that need code to stay on their machines. Nothing leaves your environment. |
+| **Cloud-Hosted** | Quick evaluation or solo devs who want zero setup. |
+| **Containerized** | CI/CD integration and automated architecture checks. |
 
 ## 🔗 Get Started
 
