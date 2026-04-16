@@ -41,15 +41,18 @@ Real codebases, automatically mapped:
 
 Modern development moves fast. AI generates more code than ever. But understanding what you've built becomes the bottleneck.
 
-JigsawML creates live architecture diagrams that:
-- **Debug AI-generated code faster** - See how new code fits into your existing system
-- **Onboard team members in minutes** - Visual system overview beats hours of documentation
-- **Review pull requests with full context** - Understand changes at the architecture level
-- **Document legacy systems automatically** - No more outdated diagrams or tribal knowledge
-- **Show system boundaries** - What talks to what, and how
-- **Track drift** - When code changes break your mental model
-- **Map cloud resources** - Connect your code symbols to AWS/GCP/Azure
-- **Scale with complexity** - From single functions to microservice meshes
+JigsawML creates live architecture diagrams that keep you in control:
+
+| | |
+|---|---|
+| **🐛 Debug AI-Generated Code Faster** | **👋 Onboard in Minutes, Not Weeks** |
+| See how new code fits into your existing system. Stop guessing where that AI-written function actually lands. | A visual system overview replaces hours of reading docs, Slack threads, and "ask Sarah, she knows." |
+| **🔀 Review PRs with Full Context** | **📖 Auto-Document Legacy Systems** |
+| Understand changes at the architecture level, not just the file level. See what a PR actually touches. | No more outdated Lucidcharts or Miro boards. Diagrams stay current because they're generated from code. |
+| **🗺️ Map Code to Cloud** | **📐 Track Architectural Drift** |
+| Connect your code symbols to the AWS, GCP, or Azure resources they reference. See the full picture. | Know when code changes break your intended architecture. Catch drift before it becomes tech debt. |
+| **🔗 Show System Boundaries** | **📈 Scale with Complexity** |
+| What talks to what, and how. Service boundaries, API contracts, and data flows made visible. | From a single module to a microservice mesh. The diagram grows with your system instead of falling behind. |
 
 ## 🔧 How It Works
 
