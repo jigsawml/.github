@@ -4,6 +4,10 @@
 
 Auto-generated, always-live architecture diagrams from your code and cloud infrastructure. Understand any system in seconds.
 
+
+https://github.com/user-attachments/assets/394c44be-0c3b-420f-915f-bfb2c9854fe7
+
+
 ## 🏗️ Featured Architecture Examples
 
 Real codebases, automatically mapped:
