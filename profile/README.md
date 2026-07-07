@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="800" height="300" alt="Logo-Svg" src="https://github.com/user-attachments/assets/af46cbbd-0709-4c97-a629-1e0754488599" />
+<img width="800" height="300" alt="JigsawML" src="https://github.com/user-attachments/assets/af46cbbd-0709-4c97-a629-1e0754488599" />
 
 **Architectural Intelligence for AI-generated software.**
 
@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/afadb5ad-7665-476a-b5a5-46e33e01c97a
 
 Real codebases, automatically mapped:
 
+- **[OpenClaw](https://jigsawml.com/canvas/openclaw)** - A personal AI assistant you run on your own devices.
 - **[NanoClaw](https://jigsawml.com/canvas/nanoclaw)** - A security-focused personal AI agent platform built on Claude
 - **[NemoClaw](https://jigsawml.com/canvas/nemoclaw)** - A secure runtime environment for running OpenClaw AI agents
 - **[Pydantic](https://jigsawml.com/canvas/pydantic)** - A high-performance data validation library for Python for type hints
@@ -48,19 +49,18 @@ JigsawML creates live architecture diagrams that keep you in control:
 | **🔗 Show System Boundaries** | **📈 Scale with Complexity** |
 | What talks to what, and how. Service boundaries, API contracts, and data flows made visible. | From a single module to a microservice mesh. The diagram grows with your system instead of falling behind. |
 
+
 ## 🔧 How It Works
 
 JigsawML builds architecture diagrams through static analysis - no runtime agents, no code execution, no data leaving your machine.
-
-### The Pipeline
 
 **1. Parse** - Full AST analysis of your source code. Functions, classes, modules, imports, and call paths are extracted per language (Python, TypeScript/JavaScript, Go).
 
 **2. Resolve** - Dependencies are traced across files and packages. JigsawML builds a complete graph of what calls what, what inherits from what, and what imports what.
 
-**3. Correlate** - Cloud infrastructure resources (S3 buckets, Lambda functions, API Gateways, etc.) are mapped back to the code symbols that reference them. Your architecture diagram shows both the code *and* the infra it touches.
+**3. Correlate** - Cloud resources (S3 buckets, Lambda functions, API Gateways) are mapped back to the code symbols that reference them. Your diagram shows both the code and the infra it touches.
 
-**4. Render** - The graph is displayed as a live, interactive diagram. Zoom into a single function or zoom out to see the full system. Every node is clickable, searchable, and stays current as your code changes.
+**4. Render** - The graph is displayed as a live, interactive diagram. Zoom into a single function or out to the full system. Every node is clickable, searchable, and stays current.
 
 ### Three Ways to Run
 
@@ -73,15 +73,15 @@ JigsawML builds architecture diagrams through static analysis - no runtime agent
 ## 🔗 Get Started
 
 - **[Try JigsawML](https://jigsawml.com/start)** - Local installer for Mac, Windows, Linux
-- **[Demo Video](https://jigsawml.com/demo)** - A 5-min video of what's coming.
-- **[Interactive Examples](https://jigsawml.com/open-source-projects)** - Interactive trimmed down examples using well known open source repositories.
-- **[Reddit](https://reddit.com/r/jigsawml) | [X](https://x.com/JigsawML) | [LinkedIn](https://www.linkedin.com/company/jigsawml/)** - Join the community for Architecture discussions.
+- **[Demo Video](https://jigsawml.com/demo)** - See it in action
+- **[Interactive Examples](https://jigsawml.com/open-source-projects)** - Explore live maps of well-known open source repos
+- **[Reddit](https://reddit.com/r/jigsawml) | [X](https://x.com/JigsawML) | [LinkedIn](https://www.linkedin.com/company/jigsawml/)** - Join the community
 - **[Feedback Board](https://feedback.jigsawml.com/)** - Request features, report bugs, vote on what we build next
 
 ## 🚀 Supported Languages
 
 - **Python** - Full AST analysis, import tracking, class hierarchies
-- **TypeScript/JavaScript** - ES modules, React components, Node.js backends  
+- **TypeScript/JavaScript** - ES modules, React components, Node.js backends
 - **Go** - Package dependencies, struct relationships, interface mappings
 
 ---
