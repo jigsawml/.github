@@ -72,7 +72,7 @@ JigsawML builds architecture diagrams through static analysis - no runtime agent
 
 ## 🔗 Get Started
 
-- **[Try JigsawML](https://jigsawml.com/start)** - Local installer for Mac, Windows, Linux
+- **[Try JigsawML](https://jigsawml.com/start)** - Install it via Github, cloud or as a local installer that you can run on your laptop.
 - **[Demo Video](https://jigsawml.com/demo)** - See it in action
 - **[Interactive Examples](https://jigsawml.com/open-source-projects)** - Explore live maps of well-known open source repos
 - **[Reddit](https://reddit.com/r/jigsawml) | [X](https://x.com/JigsawML) | [LinkedIn](https://www.linkedin.com/company/jigsawml/)** - Join the community
