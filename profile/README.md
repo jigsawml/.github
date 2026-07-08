@@ -67,13 +67,14 @@ JigsawML builds architecture diagrams through static analysis - no runtime agent
 
 | Mode | Best For |
 |---|---|
+| **GitHub App** | Easiest way to get started. Install Jigsawml on your selected repos and visualize changes made by PRs.|
 | **Local Installer** | Teams that need code to stay on their machines. Nothing leaves your environment. |
 | **Cloud-Hosted** | Quick evaluation or solo devs who want zero setup. |
-| **Containerized** | CI/CD integration and automated architecture checks. |
+| **Containerized** | CI/CD integration and automated architecture checks. Contact us. |
 
 ## 🔗 Get Started
 
-- **[Try JigsawML](https://jigsawml.com/start)** - Install it via Github (easiest), cloud or a local installer to run on your laptop.
+- **[Try JigsawML](https://jigsawml.com/start)** - Install it via Github (easiest), cloud or a local installer to run on your laptop. (Containerized / CI-CD deployment - available on request. Contact us.)
 - **[Demo Video](https://jigsawml.com/demo)** - See it in action
 - **[Interactive Examples](https://jigsawml.com/open-source-projects)** - Explore live maps of well-known open source repos
 - **[Reddit](https://reddit.com/r/jigsawml) | [X](https://x.com/JigsawML) | [LinkedIn](https://www.linkedin.com/company/jigsawml/)** - Join the community
