@@ -24,6 +24,7 @@ Real codebases, automatically mapped:
 - **[Axios](https://jigsawml.com/canvas/axios)** - HTTP client request flow  
 - **[Zod](https://jigsawml.com/canvas/zod)** - TypeScript schema validation
 - **[Hono](https://jigsawml.com/canvas/hono)** - Lightweight web framework
+- **More coming soon**
 
 ## 🎯 Who Is This For?
 
